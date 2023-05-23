@@ -1,0 +1,3 @@
+gene_id	gene	log2FoldChange	padj	stat	group
+ENSG00000090339	ICAM1	2.3052	0	up	AD_T10_T12_vs_T8
+ENSG00000090339	ICAM1	2.3676	0.0217	up	UB_T10_T12_vs_T8

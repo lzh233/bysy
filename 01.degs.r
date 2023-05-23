@@ -23,7 +23,7 @@ fc <- 2
 lable.num <- 10
 
 
-for (ori in c("UB")) {
+for (ori in c("AD")) {
   degs.all <- list()
   # AD or UB
   data.use <- ori
@@ -46,10 +46,14 @@ for (ori in c("UB")) {
       filter(rowSums(.) > 0)
     
     group.list <- gsub("\\_\\d+$", "", names(df.use))
+    print(str_c(group.list, collapse = "    "))
     
     # deseq
     colData <- data.frame(row.names=colnames(df.use), 
                           group_list=factor(group.list, levels = c(v1.gr, v2.gr)))
+    
+    print(colData)
+    print(str_c(colnames(df.use), collapse = "    "))
     
     dds <- DESeqDataSetFromMatrix(countData = df.use,
                                   colData = colData,
@@ -152,19 +156,3 @@ for (ori in c("UB")) {
   degs.all <- list()
   
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
