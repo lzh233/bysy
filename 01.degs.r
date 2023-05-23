@@ -1,10 +1,10 @@
 library(tidyverse)
 library(DESeq2)
 library(ggrepel)
-library(ComplexHeatmap)
+#library(ComplexHeatmap)
 
-dir.create(str_glue("out/deseq_tables/"))
-dir.create(str_glue("out/deseq_plots/"))
+dir.create(str_glue("out/deseq_tables/"),recursive = T)
+dir.create(str_glue("out/deseq_plots/"), recursive = T)
 
 plot_theme <- 
   theme_bw()+
@@ -17,21 +17,13 @@ df <- read.table("data/raw_gene.txt", header = T, row.names = 1)
 gene.ann <- read.table("data/gene_symbol.txt", header = T)
 AD.gr <- read_tsv("data/AD_gr.txt")
 UB.gr <- read_tsv("data/UB_gr.txt")
-fpkm <- read_tsv("data/fpkm_gene.txt")
-
-#group.all <- data.frame(
-#  samples = names(df),
-#  group = gsub("\\_\\d+$", "", names(df)),
-#  origin = gsub("^([A-Za-z]+)_.+", "\\1", names(df))
-#)
-
 
 p <- 0.05
 fc <- 2
 lable.num <- 10
 
 
-for (ori in c("AD", "UB")) {
+for (ori in c("UB")) {
   degs.all <- list()
   # AD or UB
   data.use <- ori

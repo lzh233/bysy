@@ -1,598 +1,367 @@
-gene	stat	UB_T10_vs_UB_T3	UB_T10_vs_UB_T5	UB_T10_vs_UB_T8	UB_T12_vs_UB_T10	UB_T12_vs_UB_T3	UB_T12_vs_UB_T5	UB_T12_vs_UB_T8	UB_T5_vs_UB_T3	UB_T8_vs_UB_T3	UB_T8_vs_UB_T5
-AC000123.3	down	1	1	0	0	0	0	0	0	0	0
-AC009078.3	down	0	0	0	0	0	1	0	0	0	1
-AC010343.3	up	0	0	0	0	1	0	0	0	1	0
-AC010776.2	up	0	0	0	0	1	1	0	0	0	0
-AC011447.3	down	1	0	0	0	0	0	0	0	0	0
-AC011447.7	down	1	0	0	0	0	0	0	0	0	0
-AC012531.1	down	0	1	0	0	0	0	0	0	0	0
-AC020915.1	down	1	0	0	0	1	0	0	0	0	0
-AC027228.2	down	1	0	0	0	1	0	0	0	1	0
-AC069499.1	down	1	0	0	0	0	0	0	0	0	0
-AC079298.3	up	1	0	0	0	1	0	0	0	0	0
-AC090204.1	up	1	0	0	0	1	0	0	0	1	0
-AC091057.5	down	1	0	0	0	1	0	0	0	0	0
-AC093536.1	up	1	0	0	0	0	0	0	0	0	0
-AC097059.1	up	1	1	0	0	1	1	0	0	0	0
-AC097451.1	up	0	1	0	0	0	0	0	0	0	0
-AC098934.1	down	1	0	0	0	0	0	0	0	0	0
-AC099494.2	up	0	1	0	0	0	0	0	0	0	0
-AC124045.1	down	1	0	0	0	0	0	0	0	0	0
-AC233968.1	down	1	0	0	0	0	0	0	0	0	0
-AC241585.2	up	0	0	0	0	1	0	0	0	0	0
-ACSL5	up	1	0	0	0	1	0	0	0	1	0
-ACTBL2	up	0	0	0	0	1	1	0	0	0	1
-ACVRL1	up	1	0	0	0	1	0	0	0	0	0
-ADAMTS14	up	1	0	0	0	0	0	0	1	0	0
-ADAMTS19	up	0	0	0	0	1	0	0	0	0	0
-ADAMTS5	up	0	0	0	0	1	1	0	0	0	0
-ADAP1	up	1	0	0	0	0	0	0	0	0	0
-ADAP2	up	1	0	0	0	0	0	0	0	0	0
-ADRA1D	up	1	0	0	0	1	0	0	1	1	0
-AF165147.1	up	0	1	0	0	0	1	0	0	0	1
-AFF2	down	1	0	0	0	1	0	0	0	1	0
-AKAP5	down	1	1	0	0	0	0	0	0	0	0
-AKR1B10	up	1	0	0	0	0	0	0	0	0	0
-AKR1C3	up	1	0	0	0	0	0	0	0	1	0
-AL078621.3	up	0	0	0	0	1	0	0	0	0	0
-AL161891.1	down	1	0	0	0	0	0	0	0	0	0
-AL445490.1	up	0	0	0	0	1	0	0	0	0	0
-ALMS1	down	1	0	0	0	0	0	0	0	0	0
-ANKRD1	up	0	0	0	0	1	0	1	0	0	0
-ANKRD24	up	1	0	0	0	0	0	0	0	0	0
-ANKRD36C	down	0	1	0	0	0	0	0	0	0	0
-ANKRD6	down	0	0	0	0	1	0	0	0	0	0
-ANLN	down	1	0	0	0	0	0	0	0	0	0
-AP001972.5	up	1	0	0	0	0	0	0	0	0	0
-ARG2	down	0	1	0	0	0	0	0	0	0	0
-ARHGAP11A	down	1	0	0	0	0	0	0	0	0	0
-ARHGDIG	up	1	1	0	0	0	0	0	0	0	0
-ARHGEF37	up	1	0	0	0	1	0	0	0	1	0
-ARNT2	down	0	1	0	0	1	1	0	0	0	1
-ASPM	down	1	1	0	0	0	0	0	0	0	0
-ASS1	up	1	0	0	0	1	0	0	0	0	0
-ATAD2	down	1	0	0	0	0	0	0	0	0	0
-ATAD5	down	1	0	0	0	0	0	0	0	0	0
-ATF3	up	0	0	0	0	1	0	0	0	0	0
-ATRNL1	down	1	0	0	0	1	0	0	0	1	0
-BACH2	down	1	1	0	0	0	0	0	0	0	0
-BARD1	down	1	0	0	0	0	0	0	0	0	0
-BATF2	up	0	0	0	0	1	0	0	0	0	0
-BCL2	down	1	0	0	0	0	0	0	0	0	0
-BCL2L11	down	1	0	0	0	0	0	0	0	1	0
-BIRC3	up	0	0	0	1	1	1	0	0	0	0
-BIRC5	down	0	0	0	0	0	0	0	0	1	0
-BLM	down	1	0	0	0	0	0	0	0	0	0
-BMP2	up	1	1	0	0	1	1	0	0	1	0
-BMP6	up	0	1	0	0	0	1	0	0	0	0
-BNC1	down	1	0	0	0	1	0	0	0	0	0
-BRCA2	down	1	0	0	0	0	0	0	0	0	0
-BRIP1	down	1	1	0	0	0	0	0	0	0	0
-BUB1	down	1	0	0	0	0	0	0	0	0	0
-BUB1B	down	1	0	0	0	0	0	0	0	1	0
-C1QL4	up	0	0	0	0	0	0	0	0	1	1
-C3	up	1	1	0	0	1	1	0	0	1	0
-C3orf70	down	1	1	0	0	1	0	0	0	0	0
-C6orf141	up	0	1	0	0	0	0	0	0	0	0
-CABP1	up	1	1	0	0	1	1	0	0	1	0
-CACNA1H	up	1	0	0	0	0	0	0	0	0	0
-CADM1	down	1	0	0	0	1	0	0	0	1	0
-CAMK2B	up	1	0	0	0	1	0	0	0	1	0
-CASP8AP2	down	1	0	0	0	0	0	0	0	0	0
-CAVIN4	up	0	0	0	0	1	0	0	0	0	0
-CBX2	down	0	0	0	0	1	0	0	0	0	0
-CCDC138	down	1	0	0	0	0	0	0	0	0	0
-CCDC150P1	down	1	0	0	0	0	0	0	0	0	0
-CCDC18	down	1	0	0	0	0	0	0	0	0	0
-CCDC190	up	0	0	0	0	0	1	0	0	0	0
-CCDC81	up	0	0	0	0	1	0	0	0	0	0
-CCIN	up	0	1	0	0	0	0	0	0	0	1
-CCK	up	1	0	0	0	1	1	0	0	0	0
-CCL20	up	1	1	1	1	1	1	1	0	0	0
-CCL5	up	1	0	0	1	1	1	1	0	0	0
-CCNA1	down	0	1	0	0	0	0	0	0	0	0
-CCNA2	down	1	0	0	0	0	0	0	0	0	0
-CCNB1	down	0	0	0	0	0	0	0	0	1	0
-CCNB2	down	0	0	0	0	0	0	0	0	1	0
-CCNE2	down	1	0	0	0	0	0	0	0	0	0
-CD163L1	up	0	0	0	0	1	1	0	0	0	0
-CD200	down	1	0	0	0	0	0	0	0	0	0
-CD70	up	0	0	0	0	1	1	1	0	0	0
-CDC20	down	1	0	0	0	0	0	0	0	1	0
-CDC20P1	down	0	0	0	0	1	0	0	0	0	0
-CDCA3	down	0	0	0	0	0	0	0	0	1	0
-CDH4	down	1	1	0	0	0	1	0	0	0	0
-CDK1	down	1	0	0	0	0	0	0	0	0	0
-CDKN2A	up	1	0	0	0	0	0	0	0	0	0
-CELF5	up	0	0	0	0	1	0	0	0	0	0
-CENPE	down	1	0	0	0	0	0	0	0	0	0
-CENPF	down	1	1	0	0	0	0	0	0	0	0
-CENPK	down	1	0	0	0	0	0	0	0	0	0
-CENPM	down	0	0	0	0	0	0	0	0	1	0
-CENPU	down	1	0	0	0	0	0	0	0	0	0
-CEP128	down	1	0	0	0	0	0	0	0	0	0
-CEP135	down	1	0	0	0	0	0	0	0	0	0
-CEP152	down	1	1	0	0	0	0	0	0	0	0
-CEP170	down	0	1	0	0	0	0	0	0	0	0
-CEP170P1	down	1	0	0	0	0	0	0	0	0	0
-CEP295	down	1	0	0	0	0	0	0	0	0	0
-CEP55	down	1	0	0	0	0	0	0	0	1	0
-CEP97	down	1	0	0	0	0	0	0	0	0	0
-CFD	up	0	1	0	0	0	0	0	0	0	0
-CHI3L1	up	0	1	0	0	0	0	0	0	0	0
-CHI3L2	up	0	1	0	0	0	0	0	0	0	0
-CHML	down	1	0	0	0	0	0	0	0	0	0
-CHST1	down	0	0	0	0	0	1	0	0	0	0
-CIDEA	down	0	0	0	0	0	1	0	0	0	0
-CILP2	up	1	1	0	0	1	1	0	0	0	0
-CIP2A	down	1	0	0	0	0	0	0	0	0	0
-CISH	down	0	0	0	0	1	0	0	0	0	0
-CITED4	up	1	0	0	0	1	0	0	0	0	0
-CKAP2	down	1	0	0	0	0	0	0	0	0	0
-CKAP2L	down	1	0	0	0	0	0	0	0	0	0
-CKB	up	1	1	0	0	1	1	0	0	0	0
-CLCA2	up	0	0	0	0	0	1	0	0	0	0
-CLDN1	up	0	0	0	1	1	1	0	0	0	0
-CLEC3B	up	1	0	0	0	1	1	0	0	0	0
-CLGN	up	0	0	0	0	0	0	0	0	1	0
-CLSPN	down	1	0	0	0	0	0	0	0	0	0
-CNFN	up	1	1	0	0	0	0	0	0	0	0
-CNN1	up	1	1	0	0	0	1	0	0	0	0
-CNTRL	down	1	0	0	0	0	0	0	0	0	0
-COL11A1	up	0	0	0	0	1	0	0	0	0	0
-COL14A1	down	0	0	0	0	1	0	0	0	0	0
-COMP	up	0	1	0	0	0	0	0	0	0	0
-COX7A1	up	1	0	0	0	0	0	0	0	0	0
-CRABP2	up	0	1	0	0	0	0	0	0	0	0
-CRLF1	up	0	1	0	0	0	0	0	0	0	0
-CRYAB	up	1	1	0	0	0	0	0	0	0	0
-CSMD3	up	0	0	0	0	1	0	0	0	0	0
-CST1	up	1	0	0	0	1	0	0	0	1	0
-CST6	up	0	0	0	0	0	1	0	0	0	0
-CTF1	up	1	0	0	0	0	0	0	0	0	0
-CTSS	up	0	0	0	0	1	0	0	0	0	0
-CTSV	down	1	0	0	0	0	0	0	0	1	0
-CTTNBP2	up	1	0	0	0	1	0	0	0	1	0
-CXCL10	up	0	0	0	0	1	1	0	0	0	0
-CXCL12	up	0	1	0	0	0	0	0	0	0	1
-CXCL2	up	0	0	0	0	1	1	0	0	0	0
-CXCL5	up	0	0	0	0	1	1	0	0	0	0
-CXCL8	up	0	0	0	0	0	1	1	0	0	0
-CYP1B1	up	0	0	0	0	0	1	0	0	0	0
-CYP1B1-AS1	up	0	0	0	0	0	1	0	0	0	0
-CYP2J2	up	1	0	0	0	1	0	0	0	0	0
-CYS1	up	1	0	0	0	0	0	0	0	0	0
-DBNDD1	up	0	0	0	0	1	0	0	0	0	0
-DCHS1	down	0	1	0	0	0	1	0	0	0	0
-DDIAS	down	1	0	0	0	0	0	0	0	0	0
-DDX60	up	0	0	0	1	0	0	0	0	0	0
-DEPDC1	down	1	0	0	0	0	0	0	0	1	0
-DEPDC1B	down	1	0	0	0	0	0	0	0	0	0
-DEPP1	up	0	0	0	0	0	0	0	1	0	0
-DES	up	1	1	0	0	1	1	0	0	1	1
-DHRS9	up	1	1	0	0	1	1	0	0	0	1
-DIAPH3	down	1	0	0	0	0	0	0	0	0	0
-DIO2	up	0	0	0	0	1	1	0	0	0	0
-DIRAS3	down	1	0	0	0	1	1	0	0	1	0
-DLGAP5	down	1	0	0	0	1	0	0	0	1	0
-DMC1	down	1	0	0	0	0	0	0	0	0	0
-DMPK	up	1	0	0	0	0	0	0	0	0	0
-DPH6-AS1	up	1	0	0	0	0	0	0	0	0	0
-DPY19L2	up	0	0	0	0	1	1	0	0	0	0
-DSC2	down	1	0	0	0	0	0	0	0	0	0
-DTL	down	1	0	0	0	0	0	0	0	0	0
-DTNA	up	0	0	0	0	1	0	0	0	0	0
-DTX4	up	1	1	0	0	1	0	0	0	0	0
-E2F2	down	1	0	0	0	1	1	0	0	1	1
-E2F8	down	1	0	0	0	1	0	0	0	0	0
-EBI3	up	0	0	0	0	0	1	0	0	0	0
-ECT2	down	1	0	0	0	0	0	0	0	0	0
-EEF1A2	up	1	1	0	0	1	0	0	0	0	0
-EGR3	down	1	1	0	0	1	1	0	0	0	0
-EHF	up	0	0	0	0	1	0	0	0	1	0
-EID3	down	0	0	0	0	1	0	0	0	1	0
-ELMOD1	up	0	0	0	0	1	0	0	0	0	0
-ELN	down	0	0	0	0	1	0	0	0	0	0
-ELOVL2	down	1	0	0	0	1	0	0	0	1	0
-EN1	down	0	0	0	0	1	1	0	0	0	0
-EPAS1	up	1	0	0	0	1	0	0	0	0	0
-EPHA7	down	1	0	0	0	0	0	0	0	0	0
-EPSTI1	up	0	0	0	0	1	0	0	0	0	0
-ERCC6L	down	1	0	0	0	0	0	0	0	0	0
-ESCO2	down	1	0	0	0	0	0	0	0	0	0
-EXO1	down	1	0	0	0	0	0	0	0	0	0
-EZH2	down	1	0	0	0	0	0	0	0	0	0
-F2RL2	up	0	0	0	0	1	0	0	0	0	0
-F3	up	1	0	0	0	1	0	0	0	0	0
-FABP3	up	1	0	0	0	1	0	0	1	1	0
-FABP4	up	1	0	0	0	1	0	0	1	1	0
-FAM111B	down	1	0	0	0	1	0	0	0	1	0
-FAM131C	up	1	0	0	0	1	0	0	0	0	0
-FAM156A	up	0	0	0	0	0	0	0	0	1	0
-FAM156B	down	0	1	0	0	0	0	0	0	0	0
-FAM161A	down	1	0	0	0	0	0	0	0	0	0
-FAM43B	up	1	0	0	0	0	0	0	0	0	0
-FAM81A	down	1	0	0	0	0	0	0	0	0	0
-FAM84A	up	1	0	0	0	1	0	0	0	1	0
-FANCB	down	1	0	0	0	0	0	0	0	0	0
-FBLN7	down	0	0	0	0	1	0	0	0	0	0
-FBXL16	up	1	0	0	0	1	0	0	0	0	0
-FCRLA	up	1	0	0	0	1	0	0	0	0	0
-FER1L4	up	1	0	0	0	0	0	0	0	0	0
-FGF5	up	1	0	0	0	1	1	0	0	1	0
-FIBCD1	up	0	1	0	0	0	0	0	0	0	0
-FIBIN	up	1	0	0	0	1	0	0	0	1	0
-FMN2	up	1	1	0	0	1	1	0	0	1	1
-FOSB	up	0	0	0	0	1	0	0	0	0	0
-FRMPD4	down	1	0	0	0	1	0	0	0	0	0
-FXYD6	down	1	0	0	0	1	0	0	0	1	0
-GABBR2	down	1	1	0	0	0	0	0	0	0	0
-GALNT15	up	0	1	0	0	0	1	0	0	0	0
-GALNT6	up	1	1	0	0	1	0	0	0	1	0
-GAS2L3	down	1	0	0	0	0	0	0	0	0	0
-GBP4	up	0	0	0	0	1	1	0	0	0	0
-GCNT2	up	1	0	0	0	1	1	0	0	1	0
-GCNT3	up	1	1	0	0	0	0	0	0	0	0
-GDF6	down	0	1	0	0	1	1	0	0	0	1
-GEN1	down	1	0	0	0	0	0	0	0	0	0
-GLDN	up	1	0	0	0	1	0	0	0	0	0
-GOLGA2P7	down	0	0	0	0	0	0	0	0	0	1
-GOLGA8O	up	0	0	0	0	1	0	0	0	0	0
-GPR4	up	1	0	0	0	0	0	0	0	0	0
-GPR68	up	0	0	0	0	0	1	0	0	0	0
-GRB14	up	0	0	0	0	0	1	0	0	0	0
-GRID2	up	1	0	0	0	1	0	0	0	1	0
-GRIN3B	up	1	1	0	0	1	0	0	0	0	0
-GRIP2	up	0	0	0	0	1	0	0	0	0	0
-GSDMC	up	0	0	0	0	1	1	0	0	0	0
-GUCY1A2	up	0	0	0	0	1	1	1	0	0	0
-H19	up	0	1	0	0	0	0	0	0	0	0
-H2AFY2	down	0	0	0	0	1	1	0	0	0	0
-HDAC9	up	0	0	0	0	1	0	0	0	0	0
-HECW1	up	1	0	0	0	1	0	0	0	0	0
-HELLPAR	down	1	0	0	0	1	0	0	0	0	0
-HELLS	down	1	0	0	0	0	0	0	0	0	0
-HERC5	up	0	0	0	0	0	0	0	0	1	0
-HERC6	up	0	0	0	0	1	0	0	0	1	0
-HES4	up	0	0	0	0	1	0	0	0	0	0
-HIST1H2AC	up	1	0	0	0	1	0	0	0	0	0
-HIST1H2BC	up	1	0	0	0	1	1	0	0	0	0
-HIST1H2BD	up	1	0	0	0	1	0	0	0	0	0
-HIST1H2BG	up	0	0	0	0	1	0	0	0	0	0
-HIST1H4H	up	1	0	0	0	1	0	0	0	0	0
-HIST2H2BE	up	1	0	0	0	1	0	0	0	0	0
-HLA-DPB1	down	0	0	0	0	1	0	0	0	0	0
-HLA-F	up	0	0	0	0	0	1	0	0	0	0
-HMGCS1	up	0	0	0	0	0	0	0	1	0	0
-HMMR	down	1	0	0	0	0	0	0	0	1	0
-HMSD	down	0	1	0	0	0	0	0	0	0	0
-HOXB13	up	1	1	0	0	1	1	0	0	1	1
-HOXC-AS3	down	0	0	0	0	1	0	0	0	1	0
-HOXC12	up	1	0	0	0	0	0	0	0	0	0
-HOXC13	up	1	0	0	0	1	1	0	0	0	0
-HSD11B1	up	1	0	0	0	0	0	0	0	0	0
-ICAM1	up	1	0	0	0	1	1	1	0	0	0
-IFI27	up	1	0	0	0	1	0	0	0	0	0
-IFI44L	up	1	0	0	0	1	0	0	0	1	0
-IFI6	up	0	0	0	0	1	0	0	0	0	0
-IFIH1	up	0	0	0	0	1	0	0	0	1	0
-IFIT2	up	0	0	0	0	0	0	0	0	1	0
-IFNE	down	0	1	0	0	0	0	0	0	0	0
-IGF2	down	0	0	0	0	1	1	0	0	1	0
-IGSF10	down	1	0	0	0	0	0	0	0	0	0
-IL1A	up	0	0	0	0	1	0	0	0	0	0
-IL1B	up	1	0	0	0	1	0	1	0	0	0
-IL1RL1	up	0	0	0	0	0	1	0	0	0	0
-IL21R	down	0	0	0	0	0	1	0	0	0	1
-IL21R	up	0	0	0	0	0	0	0	1	0	0
-IL31RA	down	0	0	0	0	0	1	0	0	0	0
-IL32	up	0	0	0	0	1	0	0	0	0	0
-IL33	up	0	0	0	0	1	0	0	0	0	0
-IL34	up	1	0	0	0	1	0	0	0	1	0
-IL6	up	0	0	0	0	1	1	0	0	0	0
-IL7R	up	0	0	0	0	0	1	0	0	0	0
-INAVA	down	0	0	0	0	0	0	0	0	1	0
-INHBE	up	1	0	0	0	0	0	0	0	0	0
-INMT	up	1	1	0	0	1	1	0	0	1	0
-INSC	up	1	1	0	0	1	1	0	0	1	1
-IRF6	up	1	0	0	0	0	0	0	0	0	0
-IRX5	down	0	0	0	0	1	1	0	0	0	0
-ITGB8	down	0	1	0	0	0	0	0	0	0	0
-IZUMO4	up	1	0	0	0	0	0	0	0	0	0
-JAG2	up	0	0	0	0	1	0	0	0	0	0
-JPH1	down	1	1	0	0	0	1	0	0	0	0
-KCND1	up	1	0	0	0	0	0	0	0	0	0
-KCNJ12	up	1	0	0	0	0	0	0	0	0	0
-KCNN2	up	1	0	0	0	0	0	0	0	0	0
-KCNQ3	up	0	0	0	0	0	0	0	0	1	0
-KIF11	down	1	0	0	0	0	0	0	0	0	0
-KIF14	down	1	1	0	0	0	0	0	0	0	0
-KIF15	down	1	0	0	0	0	0	0	0	0	0
-KIF18A	down	1	0	0	0	0	0	0	0	0	0
-KIF20A	down	1	0	0	0	1	0	0	0	1	0
-KIF20B	down	1	0	0	0	0	0	0	0	0	0
-KIF23	down	1	0	0	0	0	0	0	0	0	0
-KIF26A	down	1	0	0	0	1	1	0	0	1	0
-KIF4A	down	1	0	0	0	0	0	0	0	0	0
-KLHL23	down	1	1	0	0	0	0	0	0	0	0
-KNL1	down	1	1	0	0	0	0	0	0	0	0
-KNTC1	down	1	0	0	0	0	0	0	0	0	0
-KRT14	up	0	1	1	0	0	1	1	0	0	0
-KRT34	up	0	1	0	0	1	1	0	0	0	0
-KRTAP1-5	up	0	0	0	0	0	1	0	0	0	0
-KRTAP2-3	up	0	0	0	0	1	1	0	0	0	0
-KRTAP2-4	up	0	0	0	0	0	1	0	0	0	0
-KYNU	up	0	0	0	0	1	0	0	0	0	0
-LCORL	down	1	0	0	0	0	0	0	0	0	0
-LDB2	up	1	0	0	0	0	0	0	0	0	0
-LFNG	down	1	0	0	0	0	0	0	0	0	0
-LINC00663	up	1	0	0	0	0	0	0	0	0	0
-LINC00707	down	1	0	0	0	1	0	0	1	1	0
-LINC01121	up	0	0	0	0	0	1	0	0	0	0
-LINC01352	up	1	0	0	0	0	0	0	0	0	0
-LINC01637	up	1	0	0	0	1	0	0	0	0	0
-LINC01679	down	0	0	0	0	1	0	0	0	0	0
-LINC02015	up	0	0	0	0	1	0	0	0	0	0
-LINC02511	up	1	0	0	0	0	0	0	0	0	0
-LIPG	up	0	0	0	0	0	0	0	1	0	0
-LIPH	up	1	0	0	0	1	1	0	0	0	0
-LMNB1	down	1	0	0	0	1	0	0	0	1	0
-LMOD1	up	1	0	0	0	1	0	0	1	1	0
-LONRF2	down	1	1	0	0	1	1	0	0	0	0
-LRRC15	up	0	1	0	0	0	0	0	0	0	0
-LRRC4	down	0	0	0	0	0	0	0	0	1	0
-LRRCC1	down	1	0	0	0	0	0	0	0	0	0
-LSAMP	down	0	0	0	0	1	1	0	0	0	0
-LY6K	up	0	1	0	0	0	0	0	0	0	0
-LYPD3	up	1	0	0	0	1	1	0	0	0	0
-LYPD5	up	1	0	0	0	1	1	0	0	0	0
-LZTS1	down	0	0	0	0	0	1	0	0	0	0
-MAB21L1	up	1	0	0	0	1	0	0	0	0	0
-MAD2L1	down	1	0	0	0	0	0	0	0	0	0
-MAGED4	up	1	0	0	0	0	0	0	0	0	0
-MAGED4B	up	0	0	0	0	0	0	0	0	1	1
-MAP2	up	0	1	0	0	1	1	0	0	0	0
-MAP2K6	down	0	1	0	0	0	1	0	0	0	0
-MAPK10	up	1	0	0	0	0	0	0	0	0	0
-MAPK8IP2	up	0	0	0	0	1	1	0	0	0	0
-MARCH1	down	1	0	0	0	0	0	0	0	0	0
-MASP1	up	1	0	0	0	0	0	0	0	0	0
-MCAM	up	0	0	0	0	0	0	0	0	1	0
-MCM10	down	1	0	0	0	0	0	0	0	0	0
-MCTP2	down	0	1	0	0	0	1	0	0	0	0
-MEGF10	down	1	1	0	0	0	1	0	0	0	0
-MFAP4	down	0	0	0	0	0	0	0	1	0	0
-MFAP4	up	0	1	0	0	0	0	0	0	0	0
-MFAP5	down	0	0	0	0	0	0	0	0	1	0
-MFAP5	up	0	0	1	0	0	0	1	0	0	0
-MIR17HG	down	1	0	0	0	1	0	0	0	0	0
-MIS18BP1	down	1	0	0	0	0	0	0	0	0	0
-MISP3	up	1	0	0	0	0	0	0	0	0	0
-MKI67	down	1	1	0	0	0	0	0	0	0	0
-MLC1	down	0	1	0	0	0	1	0	0	0	1
-MMP1	up	1	0	0	0	1	0	0	1	1	0
-MMP23A	down	0	1	0	0	0	0	0	0	0	1
-MMP23B	down	0	0	0	1	0	0	0	0	0	0
-MMP23B	up	1	1	0	0	0	0	0	0	0	0
-MMP3	up	0	0	0	0	0	1	0	0	0	0
-MMS22L	down	1	0	0	0	0	0	0	0	0	0
-MOB3B	down	1	0	0	0	0	0	0	0	0	0
-MRGPRX3	up	0	0	0	0	1	1	0	0	0	0
-MRVI1	up	1	0	0	0	1	0	0	0	1	0
-MTUS1	up	1	0	0	0	1	0	0	0	0	0
-MYB	down	1	1	0	0	1	1	0	0	1	1
-MYBPH	down	0	0	0	0	0	1	0	0	0	0
-MYH16	down	0	0	0	0	0	1	0	0	0	0
-MYO1D	down	0	0	0	0	0	1	0	0	0	0
-MYOZ2	up	0	0	0	0	1	0	0	0	0	0
-MYRF	down	0	0	0	0	0	1	0	0	0	0
-NAP1L2	up	0	0	0	0	1	1	0	0	0	0
-NAT8L	up	0	0	0	0	1	0	0	0	0	0
-NCAM1	down	0	0	0	0	1	0	0	0	0	0
-NCAPG	down	1	0	0	0	0	0	0	0	0	0
-NCF2	up	0	0	0	0	0	0	0	0	1	1
-NDC80	down	1	0	0	0	0	0	0	0	1	0
-NDN	down	0	0	0	0	1	1	0	0	0	0
-NEK2	down	1	0	0	0	0	0	0	0	1	0
-NEURL1B	down	1	0	0	0	1	0	0	0	0	0
-NHS	up	0	0	0	0	1	0	0	0	1	0
-NHSL2	down	0	1	0	0	0	1	0	0	0	0
-NIPAL1	down	1	1	0	0	0	0	0	0	0	0
-NME5	up	1	1	0	0	0	0	0	0	1	0
-NMRAL2P	up	0	1	0	0	0	1	0	0	0	0
-NOVA1	up	1	0	0	0	1	0	0	0	0	0
-NPAS1	up	0	1	0	0	0	1	0	0	0	0
-NPTX2	down	1	0	0	0	1	0	0	0	0	0
-NTNG1	up	1	1	0	0	1	1	0	0	1	0
-NUF2	down	1	0	0	0	0	0	0	0	0	0
-NUSAP1	down	1	0	0	0	0	0	0	0	0	0
-NXPE2	down	1	0	0	0	0	0	0	0	0	0
-NYAP1	up	1	0	0	0	0	0	0	0	0	0
-NYNRIN	up	1	0	0	0	0	0	0	0	0	0
-OAS1	up	0	0	0	0	1	0	0	0	1	0
-OAS2	up	0	0	0	0	1	0	0	0	0	0
-OASL	up	0	0	0	0	0	0	0	0	0	1
-OLAH	up	0	0	0	0	1	0	0	0	0	0
-OLFM2	up	0	1	0	0	0	1	0	0	0	0
-OLFML1	up	1	0	0	0	1	0	0	0	0	0
-OLR1	up	0	0	0	0	1	1	0	0	0	0
-ORC1	down	1	0	0	0	0	0	0	0	0	0
-OSTN-AS1	up	1	1	0	0	1	1	0	0	1	1
-OXTR	up	0	0	0	1	0	0	0	0	0	0
-P2RX5	up	1	0	0	0	0	0	0	0	0	0
-PABPC4L	down	1	0	0	0	0	0	0	0	0	0
-PAK3	down	0	1	0	0	0	0	0	0	0	0
-PARM1	up	0	1	0	0	0	0	0	0	0	0
-PARPBP	down	1	0	0	0	0	0	0	0	0	0
-PBK	down	1	0	0	0	0	0	0	0	1	0
-PCDH12	up	0	0	0	0	1	0	0	0	0	0
-PCOLCE2	up	1	1	0	0	1	1	0	0	1	0
-PCSK9	up	1	0	0	0	0	0	0	1	0	0
-PCYT1B	down	0	1	0	0	0	1	0	0	0	1
-PDE9A	up	1	0	0	0	1	0	0	0	1	0
-PIK3IP1	up	1	0	0	0	1	0	0	1	0	0
-PIMREG	down	1	0	0	0	1	0	0	0	1	0
-PKIB	up	1	0	0	0	1	0	0	0	1	0
-PLA2G3	down	0	1	0	0	0	1	0	0	0	1
-PLA2G3	up	0	0	0	0	0	0	0	1	0	0
-PLCB4	up	0	0	0	0	1	1	0	0	0	0
-PLCH2	up	1	0	0	0	0	0	0	0	1	0
-PLCL1	down	1	1	0	0	0	0	0	0	0	0
-PLCXD3	up	0	0	0	0	1	0	0	0	1	0
-PLD5	down	1	0	0	0	0	0	0	0	0	0
-PLK4	down	1	0	0	0	0	0	0	0	0	0
-PLXDC2	down	1	0	0	0	1	0	0	0	1	0
-POLA1	down	1	0	0	0	0	0	0	0	0	0
-POLQ	down	1	0	0	0	0	0	0	0	0	0
-POSTN	down	1	0	0	0	0	0	0	1	1	1
-PPM1N	up	1	0	0	0	0	0	0	0	0	0
-PPP1R3G	up	1	0	0	0	1	0	0	0	1	0
-PPP2R2C	up	1	0	0	0	1	0	0	0	0	0
-PRC1	down	1	0	0	0	1	0	0	0	1	0
-PRCD	down	0	0	0	0	0	1	0	0	0	0
-PRR36	up	1	1	0	0	0	0	0	0	0	0
-PSCA	up	1	1	0	0	1	1	0	0	0	0
-PSD	up	1	0	0	0	1	0	0	0	1	0
-PTGFRN	down	1	0	0	0	1	1	0	0	1	0
-PTGIS	up	1	0	0	0	1	0	0	1	0	0
-PTHLH	down	0	0	0	0	0	0	0	1	0	0
-PTPRE	down	0	0	0	0	0	1	0	0	0	0
-PTPRN	down	1	0	0	0	1	0	0	0	0	0
-PTPRO	up	1	0	0	0	0	0	0	0	0	0
-PURPL	up	0	0	0	0	1	0	0	0	0	0
-RAB33A	down	0	0	0	0	0	1	0	0	0	0
-RAB33A	up	0	0	0	0	0	0	0	1	0	0
-RAB3D	up	1	0	0	0	0	0	0	0	0	0
-RAD51AP1	down	1	0	0	0	0	0	0	0	0	0
-RAD54B	down	1	0	0	0	0	0	0	0	0	0
-RARB	down	0	1	0	0	0	1	0	0	0	0
-RASSF2	down	0	1	0	0	1	1	0	0	1	1
-RBL1	down	1	0	0	0	0	0	0	0	0	0
-RBM24	up	0	0	0	0	1	1	0	0	0	0
-RBP1	down	1	0	0	0	1	1	0	0	1	0
-RELN	down	1	0	1	0	0	0	0	0	0	0
-RFC3	down	1	0	0	0	0	0	0	0	0	0
-RGPD5	down	1	0	0	0	0	0	0	0	0	0
-RGS11	up	1	0	0	0	0	0	0	0	0	0
-RHBDL1	up	1	0	0	0	0	0	0	0	0	0
-RMI1	down	1	0	0	0	0	0	0	0	0	0
-RNF144A-AS1	down	0	0	0	0	0	1	0	0	0	0
-RNF144B	up	1	0	0	0	1	1	0	0	1	0
-RPLP0P2	up	1	0	0	0	0	0	0	0	0	0
-RRAD	up	1	0	0	0	1	0	0	1	1	0
-RRM2	down	1	0	0	0	0	0	0	0	0	0
-SAA1	up	0	0	0	0	1	1	0	0	0	0
-SALL1	up	1	0	0	0	1	1	0	0	1	0
-SALL2	down	0	1	0	0	0	1	0	0	0	0
-SAMD5	down	1	0	0	0	1	0	0	0	1	0
-SAMD9L	up	0	0	0	1	0	0	0	0	0	0
-SAPCD2	down	1	0	0	0	1	0	0	0	1	0
-SASS6	down	1	0	0	0	0	0	0	0	0	0
-SBSN	down	0	0	0	0	0	0	0	1	0	0
-SBSN	up	0	1	0	0	0	1	0	0	0	0
-SCN2A	up	0	0	0	0	1	0	0	0	0	0
-SCUBE3	up	1	0	0	0	1	0	0	0	0	0
-SDK2	down	1	0	0	0	0	0	0	0	0	0
-SELE	up	0	0	0	0	1	1	0	0	0	0
-SEMA3E	up	0	0	0	0	1	0	0	0	0	0
-SEMA3F	up	0	0	0	0	1	1	0	0	0	1
-SEMA6B	up	0	0	0	0	1	0	0	0	0	0
-SERF1B	up	0	0	0	0	0	0	0	1	0	0
-SGCA	up	0	1	0	0	0	0	0	0	0	0
-SGO1	down	1	0	0	0	0	0	0	0	0	0
-SGO2	down	1	0	0	0	0	0	0	0	0	0
-SHROOM2	down	0	1	0	0	0	0	0	0	0	0
-SHROOM4	down	0	0	0	0	1	0	0	0	0	0
-SIX1	up	1	1	0	0	1	1	0	0	0	0
-SLC11A1	down	0	0	0	0	0	0	0	0	1	0
-SLC15A3	up	1	0	0	0	1	0	0	0	1	0
-SLC16A12	up	0	0	0	0	1	0	0	0	0	0
-SLC29A2	up	0	0	0	0	0	0	0	1	0	0
-SLC38A11	up	0	0	0	0	1	0	0	0	0	0
-SLC6A15	up	0	0	0	0	1	0	0	0	1	0
-SLF1	down	1	0	0	0	0	0	0	0	0	0
-SLITRK2	up	0	0	0	0	1	0	0	0	0	0
-SLITRK5	up	1	0	0	0	0	0	0	0	0	0
-SLPI	up	1	1	0	0	1	0	0	0	0	0
-SMC4	down	1	1	0	0	0	0	0	0	0	0
-SMOC1	up	0	0	0	0	0	0	0	0	1	0
-SOD2	up	0	0	0	0	1	1	0	0	0	0
-SOX11	down	1	1	0	0	1	1	0	0	1	1
-SP140	up	0	0	0	0	1	0	0	0	0	0
-SP4	down	1	0	0	0	0	0	0	0	0	0
-SPAG5	down	1	0	0	0	0	0	0	0	0	0
-SPECC1	down	1	0	0	0	1	0	0	0	1	0
-SPINT2	up	1	0	0	0	0	0	0	0	0	0
-SPTBN2	down	0	0	0	0	1	1	0	0	0	0
-SPTBN4	up	1	0	0	0	1	0	0	0	1	0
-SPX	up	0	0	0	0	1	0	0	0	1	0
-ST6GAL2	down	1	1	0	0	1	1	0	0	0	0
-ST6GALNAC6	up	0	0	0	0	1	0	0	0	0	0
-ST8SIA4	down	1	0	0	0	0	1	0	0	0	0
-STARD4-AS1	down	1	0	0	0	0	0	0	0	0	0
-STEAP2	up	0	0	0	0	1	0	0	0	1	0
-STYK1	up	0	0	0	0	1	0	0	0	1	0
-SULF2	down	0	0	0	0	1	0	0	0	1	0
-SULT1E1	down	1	0	0	0	1	1	0	0	1	0
-SYT9	up	1	0	0	0	1	0	0	0	1	0
-TBX21	down	0	0	0	0	1	0	0	0	0	0
-TBX4	up	0	0	0	0	0	0	0	0	1	0
-TBX5	up	1	0	0	0	0	0	0	0	0	0
-TCF7L1	down	0	0	0	0	0	1	0	0	0	0
-THEM5	up	1	0	0	0	0	0	0	0	0	0
-TM7SF2	down	0	0	0	0	0	1	0	0	0	0
-TM7SF2	up	0	0	0	0	0	0	0	1	0	0
-TMEM151A	up	1	0	0	0	0	0	0	0	0	0
-TMEM229B	up	1	1	0	0	1	0	0	0	1	0
-TMSB15A	down	1	0	0	0	1	1	0	0	0	0
-TNFAIP2	up	0	0	0	0	1	0	0	0	0	0
-TNFAIP6	up	0	0	0	0	1	1	1	0	0	0
-TNFRSF11B	down	1	0	0	0	0	0	0	0	0	0
-TNFRSF9	up	1	0	0	0	1	1	1	0	0	0
-TNS4	up	0	0	0	0	0	0	0	0	1	0
-TOP2A	down	1	0	0	0	0	0	0	0	0	0
-TPD52L1	up	1	0	0	0	1	0	0	0	0	0
-TRIL	down	0	0	0	0	0	1	0	0	0	0
-TRPC4	down	1	1	0	0	0	0	0	0	0	0
-TRPM3	up	1	0	0	0	1	1	0	0	0	0
-TTC29	up	0	0	0	0	0	0	0	0	1	1
-TTK	down	1	0	0	0	0	0	0	0	0	0
-U2AF1	down	0	0	0	0	0	0	0	1	0	0
-U2AF1	up	0	1	0	0	0	0	0	0	0	0
-UNC13A	up	0	0	0	0	0	0	0	0	1	0
-USP44	up	0	0	0	0	1	0	0	0	0	0
-VCAM1	down	0	0	0	0	0	0	0	0	1	1
-VCAM1	up	0	0	0	0	0	0	1	0	0	0
-VGLL3	down	0	1	0	0	0	0	0	0	0	0
-VSTM4	down	0	0	0	0	1	0	0	0	0	0
-VTN	down	0	0	0	0	0	0	0	0	1	0
-WDR76	down	1	0	0	0	0	0	0	0	0	0
-WFDC1	up	1	0	0	0	0	0	0	0	0	0
-WFDC21P	up	0	1	0	0	0	0	0	0	0	0
-WNK3	down	0	0	0	0	0	1	0	0	0	0
-WNT16	up	1	1	0	0	1	1	0	0	1	1
-WNT2	up	0	1	0	0	0	1	0	0	0	0
-WNT2B	up	1	0	0	0	1	0	0	0	0	0
-WSCD1	down	0	0	0	0	0	1	0	0	0	0
-XAF1	up	0	0	0	0	1	0	0	0	1	0
-XKR5	down	1	0	0	0	1	0	0	0	0	0
-XRCC2	down	1	0	0	0	0	0	0	0	0	0
-ZDHHC11	down	0	0	0	0	0	0	0	0	1	0
-ZFHX4	down	0	1	0	0	0	0	0	0	0	0
-ZFHX4-AS1	down	0	1	0	0	0	0	0	0	0	0
-ZG16B	up	1	0	0	0	0	0	0	0	0	0
-ZGRF1	down	1	0	0	0	0	0	0	0	0	0
-ZNF100	down	1	0	0	0	0	0	0	0	0	0
-ZNF107	down	1	0	0	0	0	0	0	0	0	0
-ZNF107	up	0	0	0	1	0	0	0	0	0	0
-ZNF367	down	1	0	0	0	0	0	0	0	1	0
-ZNF519	down	1	1	0	0	0	0	0	0	0	0
-ZNF678	down	1	0	0	0	0	0	0	0	0	0
-ZNF681	down	0	0	0	0	1	0	0	0	0	0
-ZNF724	down	1	0	0	0	0	0	0	0	0	0
-ZNF730	down	1	0	0	0	0	0	0	0	0	0
-ZNF92	down	1	0	0	0	0	0	0	0	0	0
-ZPLD1	up	0	0	0	0	1	1	0	0	0	0
-ZSWIM5	up	1	0	0	0	1	0	0	0	1	0
-ZSWIM5P3	down	1	0	0	0	1	0	0	0	1	0
-ZYG11A	down	0	0	0	0	1	0	0	0	0	0
+gene	stat	UB_T10_T12_vs_UB_T3_T5	UB_T10_T12_vs_UB_T8	UB_T3_T5_vs_UB_T8
+ABLIM2	up	1	0	0
+AC005291.1	up	0	0	1
+AC009078.3	up	0	0	1
+AC018628.1	down	1	0	0
+AC020915.1	down	1	0	0
+AC027228.2	down	1	0	0
+AC069499.1	down	1	0	0
+AC073365.1	up	1	0	0
+AC078778.1	down	1	0	0
+AC079298.3	up	1	0	0
+AC091185.1	down	1	0	0
+AC093702.1	up	1	0	0
+AC093833.1	up	1	0	0
+AC097059.1	up	1	0	0
+AC098934.1	down	1	0	0
+AC104596.1	down	1	0	0
+AC107884.1	down	0	0	1
+AC110011.1	up	1	0	0
+AC118553.2	down	1	0	0
+ACTBL2	up	1	0	0
+ADAMTS19	up	1	0	0
+ADAMTS5	up	1	0	0
+ADAP2	up	1	0	0
+AF165147.1	up	1	0	0
+AFF2	down	1	0	0
+AFF2	up	0	0	1
+AL034550.1	down	1	0	0
+AL136985.3	up	1	0	0
+AL445228.2	down	1	0	0
+AL445490.1	up	1	0	0
+AL663070.1	down	1	0	0
+ALOX15B	up	0	1	0
+ANKRD6	down	1	0	0
+ANKRD6	up	0	0	1
+AP000547.3	up	1	0	0
+AP001476.1	down	1	0	0
+ARHGDIG	up	1	0	0
+ARNT2	down	1	0	0
+ARNT2	up	0	0	1
+ART4	up	1	0	0
+ASPM	down	1	0	0
+ATRNL1	down	1	0	0
+ATRNL1	up	0	0	1
+BACH2	down	1	0	0
+BCL2L11	up	0	0	1
+BIRC3	up	1	0	0
+BMP2	down	0	0	1
+BMP2	up	1	0	0
+BNC1	down	1	0	0
+BX255923.1	up	1	0	0
+C11orf96	up	1	0	0
+C19orf38	up	1	0	0
+C1QL4	down	0	0	1
+C1QL4	up	1	0	0
+C3	down	0	0	1
+C3	up	1	0	0
+C3orf70	down	1	0	0
+C6orf141	down	0	0	1
+C8orf31	up	1	0	0
+CABP1	up	1	0	0
+CACNA2D3	up	1	0	0
+CADM1	down	1	0	0
+CADM1	up	0	0	1
+CASC8	up	1	0	0
+CCDC150P1	down	1	0	0
+CCK	up	1	0	0
+CCL20	up	1	1	0
+CCL5	up	1	0	0
+CD163L1	down	0	0	1
+CD163L1	up	1	0	0
+CD70	up	1	0	0
+CDH4	down	1	0	0
+CELF5	up	1	0	0
+CENPF	down	1	0	0
+CHMP1B2P	up	1	0	0
+CILP2	up	1	0	0
+CITED4	up	1	0	0
+CKB	up	1	0	0
+CLCA2	up	1	0	0
+CLDN1	up	1	0	0
+CLEC3B	up	1	0	0
+CNKSR2	down	1	0	0
+CNN1	up	1	0	0
+CPVL	down	1	0	0
+CRYAB	up	1	0	0
+CSF2	up	1	0	0
+CSMD3	up	1	0	0
+CST1	up	1	0	0
+CTSV	up	0	0	1
+CTTNBP2	up	1	0	0
+CX3CL1	up	1	0	0
+CXCL10	up	1	0	0
+CXCL12	down	0	0	1
+CXCL2	up	1	0	0
+CXCL5	up	1	0	0
+CXCL8	up	0	1	0
+CYP1B1-AS1	up	1	0	0
+CYP2J2	up	1	0	0
+DCHS1	down	1	0	0
+DCSTAMP	down	1	0	0
+DENND2A	up	1	0	0
+DES	down	0	0	1
+DES	up	1	0	0
+DHRS9	down	0	0	1
+DHRS9	up	1	0	0
+DIO2	up	1	0	0
+DIRAS3	down	1	0	0
+DIRAS3	up	0	0	1
+DLSTP1	down	1	0	0
+DPY19L2	up	1	0	0
+DSC2	down	1	0	0
+DTX4	up	1	0	0
+E2F2	down	1	0	0
+E2F2	up	0	0	1
+E2F8	down	1	0	0
+EBI3	up	1	0	0
+EDA	down	1	0	0
+EDARADD	down	1	0	0
+EEF1A2	up	1	0	0
+EGR3	down	1	0	0
+EHF	up	1	0	0
+EIF4A2P1	down	1	0	0
+ELMOD1	up	1	0	0
+ELOVL2	down	1	0	0
+ELOVL2	up	0	0	1
+ELOVL7	up	1	0	0
+ETV7	up	1	0	0
+F3	up	1	0	0
+FAM107A	up	1	0	0
+FAM111B	down	1	0	0
+FAM241B	down	1	0	0
+FAM43B	up	1	0	0
+FAM84A	up	1	0	0
+FGF5	down	0	0	1
+FGF5	up	1	0	0
+FMN2	down	0	0	1
+FMN2	up	1	0	0
+FOXF2	up	1	0	0
+FRMPD4	down	1	0	0
+FXYD6	down	1	0	0
+FXYD6	up	0	0	1
+GABRB3	down	1	0	0
+GALNT6	up	1	0	0
+GBP4	up	1	0	0
+GCNT2	down	0	0	1
+GCNT2	up	1	0	0
+GCNT3	up	1	0	0
+GDF6	down	1	0	0
+GLDN	up	1	0	0
+GPR88	down	1	0	0
+GRID2	up	1	0	0
+GRIN3B	up	1	0	0
+GSDMC	up	1	0	0
+GUCY1A2	up	1	0	0
+HELLPAR	down	1	0	0
+HERC6	down	0	0	1
+HIST1H1PS1	up	1	0	0
+HIST1H2AC	up	1	0	0
+HIST1H2BC	up	1	0	0
+HIST1H2BD	up	1	0	0
+HIST2H2AA4	up	1	0	0
+HLA-DPB1	down	1	0	0
+HOXB13	up	1	0	0
+HOXC12	up	1	0	0
+HOXC13	up	1	0	0
+HSD11B1	up	1	0	0
+HSD17B2	up	1	0	0
+ICAM1	up	1	1	0
+IFI27	up	1	0	0
+IFI44L	up	1	0	0
+IFI6	up	1	0	0
+IFIT1	down	0	0	1
+IFIT2	down	0	0	1
+IFIT3	down	0	0	1
+IGF2	up	0	0	1
+IGSF10	down	1	0	0
+IL1B	up	1	0	0
+IL1RL1	up	1	0	0
+IL6	up	1	0	0
+INAVA	down	1	0	0
+INMT	up	1	0	0
+INSC	down	0	0	1
+INSC	up	1	0	0
+JPH1	down	1	0	0
+KIAA1211	down	1	0	0
+KIF14	down	1	0	0
+KIF26A	down	1	0	0
+KIF26A	up	0	0	1
+KNL1	down	1	0	0
+KRT14	up	1	1	0
+KRT34	up	1	0	0
+KRTAP2-2	up	1	0	0
+KRTAP2-4	up	1	0	0
+KYNU	up	1	0	0
+LGI3	up	1	0	0
+LINC01771	down	1	0	0
+LINC01775	up	0	0	1
+LINC02015	up	1	0	0
+LINC02511	up	1	0	0
+LIPH	up	1	0	0
+LONRF2	down	1	0	0
+LSAMP	down	1	0	0
+LYPD3	up	1	0	0
+LYPD5	up	1	0	0
+MAGED4B	down	0	0	1
+MAP2	down	0	0	1
+MAP2	up	1	0	0
+MAP3K9	down	1	0	0
+MARCH10	up	1	0	0
+MDFI	down	1	0	0
+MDFI	up	0	0	1
+MEGF10	down	1	0	0
+MFAP5	up	0	1	0
+MIR17HG	down	1	0	0
+MMP1	up	1	0	0
+MMP23A	up	0	0	1
+MORF4L2-AS1	down	1	0	0
+MRGPRX3	up	1	0	0
+MRVI1	up	1	0	0
+MYB	down	1	0	0
+MYB	up	0	0	1
+MYBPH	down	1	0	0
+MYH13	down	1	0	0
+MYH16	down	1	0	0
+MYO1H	down	1	0	0
+MYOZ2	up	1	0	0
+MYZAP	up	1	0	0
+N4BP2L2-IT2	down	1	0	0
+NAP1L2	up	1	0	0
+NCF2	down	0	0	1
+NEURL1B	down	1	0	0
+NHS	down	0	0	1
+NHS	up	1	0	0
+NHSL2	down	1	0	0
+NLGN1	up	1	0	0
+NME5	down	0	0	1
+NME5	up	1	0	0
+NOVA1	up	1	0	0
+NPR3	down	0	0	1
+NTNG1	down	0	0	1
+NTNG1	up	1	0	0
+NXPE2	down	1	0	0
+NXPE2	up	0	0	1
+OAS1	up	1	0	0
+OAS2	up	1	0	0
+OASL	down	0	0	1
+OCA2	up	1	0	0
+OLAH	up	1	0	0
+OLFML1	up	1	0	0
+OLR1	up	1	0	0
+OSTN-AS1	down	0	0	1
+OSTN-AS1	up	1	0	0
+PCDHGC4	down	1	0	0
+PCOLCE2	up	1	0	0
+PELI2	down	1	0	0
+PKIB	up	1	0	0
+PLA2G3	down	1	0	0
+PLCL1	down	1	0	0
+PLCXD3	down	0	0	1
+PLCXD3	up	1	0	0
+PLD5	down	1	0	0
+PLEKHG4B	down	1	0	0
+PLXDC2	down	1	0	0
+PLXDC2	up	0	0	1
+POSTN	down	1	0	0
+POSTN	up	0	0	1
+PPP1R36	up	1	0	0
+PPP1R3G	up	1	0	0
+PPP2R2C	up	1	0	0
+PRAC2	up	1	0	0
+PRC1	down	1	0	0
+PRG4	up	1	0	0
+PSCA	up	1	0	0
+PSD	up	1	0	0
+PTGFRN	down	1	0	0
+PTPRE	down	1	0	0
+PTPRN	down	1	0	0
+PURPL	up	1	0	0
+RAB39B	down	1	0	0
+RASSF2	down	1	0	0
+RASSF2	up	0	0	1
+RBM24	up	1	0	0
+RBP1	down	1	0	0
+RBP1	up	0	0	1
+RGMA	down	1	0	0
+RHCG	up	1	0	0
+RIPK3	up	1	0	0
+RN7SL5P	down	0	0	1
+RNF144B	up	1	0	0
+RNY3P8	up	1	0	0
+ROBO2	up	1	0	0
+RTP4	up	1	0	0
+SAA1	up	1	0	0
+SALL1	down	0	0	1
+SALL1	up	1	0	0
+SAMD5	down	1	0	0
+SAMD5	up	0	0	1
+SAPCD2	down	1	0	0
+SAPCD2	up	0	0	1
+SCIN	up	1	0	0
+SCN3A	up	1	0	0
+SCUBE3	up	1	0	0
+SDK2	down	1	0	0
+SELE	up	1	0	0
+SGCA	up	1	0	0
+SIX1	down	0	0	1
+SIX1	up	1	0	0
+SLC16A14	up	1	0	0
+SLC38A11	up	1	0	0
+SLIT1	up	1	0	0
+SLITRK2	up	1	0	0
+SLITRK5	down	0	0	1
+SLITRK5	up	1	0	0
+SLPI	up	1	0	0
+SMOC1	up	1	0	0
+SOX11	down	1	0	0
+SOX11	up	0	0	1
+ST6GAL2	down	1	0	0
+ST8SIA1	up	1	0	0
+ST8SIA4	down	1	0	0
+STAT4	up	1	0	0
+STEAP2	down	0	0	1
+STEAP2	up	1	0	0
+STYK1	down	0	0	1
+STYK1	up	1	0	0
+SULF2	up	0	0	1
+SULT1E1	down	1	0	0
+SULT1E1	up	0	0	1
+SYT9	down	0	0	1
+TAGLN3	down	1	0	0
+TBX21	down	1	0	0
+TBX5	up	1	0	0
+THEM5	up	1	0	0
+TMEFF2	up	1	0	0
+TMEM151A	up	1	0	0
+TMEM229B	up	1	0	0
+TMSB15A	down	1	0	0
+TNF	up	1	0	0
+TNFRSF9	up	1	0	0
+TNS4	down	0	0	1
+TRIL	down	1	0	0
+TRIL	up	0	0	1
+TRPM3	up	1	0	0
+TSPAN11	up	1	0	0
+TTC29	down	0	0	1
+TTC29	up	1	0	0
+USP44	up	1	0	0
+VASH2	down	1	0	0
+VCAM1	up	0	1	1
+VSTM4	down	1	0	0
+VSTM5	up	1	0	0
+VTN	up	0	0	1
+WNK3	down	1	0	0
+WNT16	down	0	0	1
+WNT16	up	1	0	0
+XKR5	down	1	0	0
+ZDHHC11	up	0	0	1
+ZFPM2-AS1	up	1	0	0
+ZNF492	down	1	0	0
+ZNF492	up	0	0	1
+ZNF711	down	1	0	0
+ZPLD1	up	1	0	0
+ZSWIM5	down	0	0	1
+ZSWIM5	up	1	0	0
+ZSWIM5P3	down	1	0	0
+ZSWIM5P3	up	0	0	1

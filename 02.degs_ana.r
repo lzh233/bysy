@@ -71,6 +71,4 @@ for (use.gr in c("AD", "UB")) {
     uniqu.gene.df <- get.unique.genes(all.df, str_glue("{v1.gr}_vs_{v2.gr}"))[,c("gene", "stat")]
     write_tsv(uniqu.gene.df,str_glue("./out/upsets/tables/{use.gr}/{use.gr}_{v1.gr}_vs_{v2.gr}_DEGs_unique.txt"))
     }
-  
-  
 }

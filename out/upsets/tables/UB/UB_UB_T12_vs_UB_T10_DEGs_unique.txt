@@ -1,6 +1,0 @@
-gene	stat
-DDX60	up
-MMP23B	down
-OXTR	up
-SAMD9L	up
-ZNF107	up

@@ -1,0 +1,9 @@
+gene	stat
+AC007325.4	up
+AC242842.1	up
+AL162151.2	down
+DHRS3	up
+GREM2	down
+ITGA11	down
+SLC12A7	up
+STYK1	up

@@ -1,8 +1,0 @@
-gene	stat
-HID1	down
-KRT33B	down
-MECOM	up
-MEI1	down
-NMRAL2P	down
-NRGN	up
-TNXA	up

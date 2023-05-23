@@ -1,0 +1,4 @@
+gene	stat
+ALOX15B	up
+CXCL8	up
+MFAP5	up
