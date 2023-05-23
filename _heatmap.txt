@@ -1,0 +1,22 @@
+    # plot heatmap
+    # use.genes <- res %>% filter(stat %in% c("up", "down")) %>% .$gene_id
+    # heatmap.data <- df.use[rownames(df.use) %in% use.genes, ]
+    
+  
+    # heatmap.data <- t(scale(t(heatmap.data)))
+    
+    # write.table(round(heatmap.data, 4),sep = "\t", 
+    #             str_glue("out/deseq_tables/{data.use}/{data.use}_{v1.gr}_vs_{v2.gr}_heatmap.txt"))
+    
+    # lab <- rowAnnotation(ano = anno_mark(
+    #   at = which(rownames(heatmap.data) %in% lable.df$gene_id),
+    #   labels = lable.df$gene,
+    #   labels_gp = gpar(fontsize = 8)
+    # ))
+    
+    # pdf(str_glue("out/deseq_plots/{data.use}/{data.use}_{v1.gr}_vs_{v2.gr}_heatmap.pdf"), width = 6, height = 8)
+    
+    # ht <- Heatmap(heatmap.data,show_row_names = FALSE,right_annotation = lab, use_raster = FALSE)
+    # draw(ht)
+    # dev.off()
+    

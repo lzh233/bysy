@@ -1,0 +1,3 @@
+gene	stat
+GOLGA2P7	down
+OASL	up
