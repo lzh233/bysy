@@ -1,0 +1,39 @@
+Key_TF	Description	of_overlapped_genes	P_value	Q_value	List_of_overlapped_genes
+RELA	v-rel reticuloendotheliosis viral oncogene homolog A (avian)	21	1e-13	2.17e-12	SAA1,CXCL10,STAT4,IL6,IL1B,ICAM1,BMP2,F3,CCL20,CCK,CXCL2,CSF2,BIRC3,MMP1,TNF,CCL5,CXCL5,SELE,TNFRSF9,EBI3,OLR1
+NFKB1	nuclear factor of kappa light polypeptide gene enhancer in B-cells 1	21	1.14e-13	2.17e-12	BIRC3,CCK,EBI3,MMP1,IL1B,TNFRSF9,CCL5,SELE,CXCL10,ICAM1,BMP2,CCL20,CXCL5,STAT4,CSF2,IL6,TNF,F3,SAA1,CXCL2,OLR1
+REL	v-rel reticuloendotheliosis viral oncogene homolog (avian)	7	4.04e-10	5.11e-09	IL6,F3,IL1B,ICAM1,CCL5,BIRC3,SELE
+NFKBIA	nuclear factor of kappa light polypeptide gene enhancer in B-cells inhibitor, alpha	5	4.21e-07	4e-06	ICAM1,IL1B,EBI3,MMP1,CCL5
+JUN	jun proto-oncogene	9	4.84e-06	3.68e-05	CCK,IL1B,CCL5,CSF2,CYP2J2,F3,TNF,IL6,MMP1
+SIRT1	sirtuin 1	5	5.09e-05	0.000322	IL1B,ICAM1,TNF,ADAMTS5,SELE
+CEBPB	CCAAT/enhancer binding protein (C/EBP), beta	5	0.00015	0.000813	SAA1,IL1B,MMP1,IL6,TNF
+CEBPD	CCAAT/enhancer binding protein (C/EBP), delta	3	0.000366	0.00174	C3,TNF,CCL20
+ETS2	v-ets erythroblastosis virus E26 oncogene homolog 2 (avian)	3	0.00243	0.0103	MMP1,CSF2,ICAM1
+JUND	jun D proto-oncogene	3	0.0029	0.011	IL6,CCL5,F3
+IRF7	interferon regulatory factor 7	2	0.00441	0.0152	CCL5,CXCL10
+STAT1	signal transducer and activator of transcription 1, 91kDa	4	0.00555	0.0176	ICAM1,IL6,IL1B,CXCL10
+IRF3	interferon regulatory factor 3	2	0.00689	0.0192	CXCL10,CCL5
+STAT3	signal transducer and activator of transcription 3 (acute-phase response factor)	5	0.00708	0.0192	OAS1,ICAM1,SAA1,IL6,MMP1
+ATF3	activating transcription factor 3	2	0.00784	0.0192	CCL5,SELE
+HMGA1	high mobility group AT-hook 1	2	0.00883	0.0192	CRYAB,IL1B
+CEBPA	CCAAT/enhancer binding protein (C/EBP), alpha	3	0.00909	0.0192	ICAM1,SAA1,IL6
+IRF1	interferon regulatory factor 1	3	0.00909	0.0192	CXCL10,CCL5,SLPI
+AHR	aryl hydrocarbon receptor	2	0.0146	0.0277	IL6,IL1B
+ETV4	ets variant 4	2	0.0146	0.0277	MMP1,TNF
+SPI1	spleen focus forming virus (SFFV) proviral integration oncogene spi1	3	0.0154	0.0279	IL1B,CCL5,TNF
+FLI1	Friend leukemia virus integration 1	2	0.0172	0.0296	CCK,MMP1
+CREBBP	CREB binding protein	2	0.0186	0.0296	CCK,CSF2
+SP1	Sp1 transcription factor	9	0.0187	0.0296	ICAM1,HSD17B2,CCK,TNF,KRT14,CXCL5,IL6,F3,CCL5
+RARA	retinoic acid receptor, alpha	2	0.0201	0.0305	ICAM1,HSD17B2
+HSF1	heat shock transcription factor 1	2	0.028	0.0409	IL1B,TNF
+TWIST1	twist basic helix-loop-helix transcription factor 1	2	0.035	0.0493	ICAM1,MMP1
+EGR1	early growth response 1	3	0.0383	0.0516	TNF,IL6,F3
+CREB1	cAMP responsive element binding protein 1	3	0.0405	0.0516	IL6,CCK,CCL5
+GATA3	GATA binding protein 3	2	0.0407	0.0516	STAT4,MMP1
+KLF4	Kruppel-like factor 4 (gut)	2	0.0447	0.0548	IL6,IL1B
+FOS	FBJ murine osteosarcoma viral oncogene homolog	2	0.0834	0.099	MMP1,CCK
+E2F1	E2F transcription factor 1	3	0.104	0.119	IL1B,TNF,FMN2
+PPARG	peroxisome proliferator-activated receptor gamma	2	0.107	0.119	MMP1,ICAM1
+HDAC1	histone deacetylase 1	2	0.121	0.131	BIRC3,ICAM1
+ETS1	v-ets erythroblastosis virus E26 oncogene homolog 1 (avian)	2	0.143	0.151	CSF2,MMP1
+YY1	YY1 transcription factor	2	0.179	0.184	IL1B,HOXB13
+TP53	tumor protein p53	2	0.403	0.403	MMP1,CRYAB
