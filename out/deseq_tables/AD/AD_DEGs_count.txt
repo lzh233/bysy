@@ -1,7 +1,0 @@
-group	stat	ngenes
-AD_T10_T12_vs_AD_T3_T5	down	238
-AD_T10_T12_vs_AD_T3_T5	up	345
-AD_T10_T12_vs_AD_T8	down	14
-AD_T10_T12_vs_AD_T8	up	22
-AD_T3_T5_vs_AD_T8	down	124
-AD_T3_T5_vs_AD_T8	up	103

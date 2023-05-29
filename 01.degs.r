@@ -23,7 +23,7 @@ fc <- 2
 lable.num <- 10
 
 
-for (ori in c("AD")) {
+for (ori in c("UB")) {
   degs.all <- list()
   # AD or UB
   data.use <- ori
@@ -40,7 +40,6 @@ for (ori in c("AD")) {
   for (v1 in seq_along(use$col1)) {
     v1.gr <- use[v1, 1]$col1
     v2.gr <- use[v1, 2]$col2
-    
     df.use <- df %>% 
       select(names(.)[str_detect(names(.), v1.gr) | str_detect(names(.), v2.gr)]) %>% 
       filter(rowSums(.) > 0)
@@ -156,3 +155,4 @@ for (ori in c("AD")) {
   degs.all <- list()
   
 }
+

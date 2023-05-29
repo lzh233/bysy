@@ -60,10 +60,10 @@ p2 <- make.degs.vene(
 )
 
 p3 <- make.degs.vene(
-  "out/deseq_tables/AD/AD_AD_T3_T5_vs_AD_T8.txt",
-  "out/deseq_tables/UB/UB_UB_T3_T5_vs_UB_T8.txt",
-  "AD_T3_T5_vs_T8",
-  "UB_T3_T5_vs_T8"
+  "out/deseq_tables/AD/AD_AD_T8_vs_AD_T3_T5.txt",
+  "out/deseq_tables/UB/UB_UB_T8_vs_UB_T3_T5.txt",
+  "AD_T8_vs_T3_T5",
+  "UB_T8_vs_T3_T5"
 )
 
 

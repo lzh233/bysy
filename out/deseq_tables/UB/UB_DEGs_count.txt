@@ -1,6 +1,0 @@
-group	stat	ngenes
-UB_T10_T12_vs_UB_T3_T5	down	106
-UB_T10_T12_vs_UB_T3_T5	up	184
-UB_T10_T12_vs_UB_T8	up	7
-UB_T3_T5_vs_UB_T8	down	38
-UB_T3_T5_vs_UB_T8	up	35

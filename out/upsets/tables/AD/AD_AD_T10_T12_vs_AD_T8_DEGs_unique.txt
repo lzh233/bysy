@@ -2,8 +2,13 @@ gene	stat
 AC007325.4	up
 AC242842.1	up
 AL162151.2	down
+AL353150.1	up
+BNC2-AS1	up
 DHRS3	up
+ELOVL2	up
+FAM84A	down
 GREM2	down
 ITGA11	down
+SFRP4	down
 SLC12A7	up
 STYK1	up
